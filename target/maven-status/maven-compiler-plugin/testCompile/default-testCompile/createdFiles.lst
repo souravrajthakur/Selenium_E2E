@@ -1,0 +1,10 @@
+base\BaseTest.class
+tests\automation\AutomationTests.class
+tests\cart\CartTests.class
+listeners\RetryAnalyzer.class
+tests\e2e\E2ETests.class
+dataproviders\LoginDataProvider.class
+listeners\TestListener.class
+tests\inventory\InventoryTests.class
+tests\checkout\CheckoutTests.class
+tests\login\LoginTests.class

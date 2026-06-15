@@ -1,0 +1,15 @@
+<suite name="SauceDemo Suite" parallel="tests" thread-count="3">
+
+    <test name="Login">
+        <classes>
+            <class name="tests.login.LoginTests"/>
+        </classes>
+    </test>
+
+    <test name="Inventory">
+        <classes>
+            <class name="tests.inventory.InventoryTests"/>
+        </classes>
+    </test>
+
+</suite>

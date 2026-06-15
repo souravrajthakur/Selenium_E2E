@@ -1,0 +1,11 @@
+pages\BasePage.class
+pages\InventoryPage.class
+pages\LoginPage.class
+constants\FrameworkConstants.class
+pages\CartPage.class
+utils\TestDataLoader.class
+config\ConfigManager.class
+pages\CheckoutPage.class
+utils\MailUtil.class
+pages\components\MenuComponent.class
+utils\WaitUtils.class
