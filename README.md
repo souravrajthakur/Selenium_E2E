@@ -174,7 +174,7 @@ Runs daily at **6:30 PM IST**
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/Srirams02/Saucedemo-End-to-End-Automation-framework.git
+git clone https://github.com/souravrajthakur/Selenium_E2E.git
 cd Saucedemo-End-to-End-Automation-framework
 mvn clean test
 ```
