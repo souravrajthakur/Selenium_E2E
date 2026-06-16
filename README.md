@@ -82,7 +82,7 @@ The following screenshots demonstrate the complete automation pipeline in action
 
 ### 🔹 Email Report
 
-<img width="1061" height="893" src="https://github.com/user-attachments/assets/45f80dc7-614a-40d8-a72d-772867b5f7b8" />
+<img width="1061" height="893" src="https://github.com/souravrajthakur/Selenium_E2E/issues/1" />
 
 > Automated email with execution summary and chart.
 
